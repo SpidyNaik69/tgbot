@@ -1,4 +1,4 @@
-FROM arshsisodiya/helioskirepo:arm64
+FROM 412314/mltb:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
